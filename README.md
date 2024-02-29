@@ -81,6 +81,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ocornel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
+
 ## 📈 Stats:
 <p align="center">
   <a href="https://github.com/ocornel">
@@ -105,4 +106,5 @@
 ![Martin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ocornel&custom_title=Martin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <hr>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
