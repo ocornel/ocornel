@@ -64,12 +64,11 @@
 
 <br/>
 
-## Top Open Source -
+## Top Repos -
 [![dbCopy](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=db_copy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/db_copy)
 [![KotlinECommerce](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=kotlin_ecommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/Kotlin_eCommerce)
-[![My Web](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=mcornel.com&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/mcornel.com)
 
-[//]: # ([![Database Objects]&#40;https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=database_objects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&#41;]&#40;https://github.com/ocornel/database_objects&#41;)
+[//]: # ([![My Web]&#40;https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=mcornel.com&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&#41;]&#40;https://github.com/ocornel/mcornel.com&#41;)
 
 <p align="left">
   <a href="https://github.com/ocornel?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
