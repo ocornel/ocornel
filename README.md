@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Martin+Cornel&oq=Martin+Cornel">「 Google Me 」</a>
     <br>
-    I am a professional in Software and Data Engineering based in Nairob
+    I am a professional in Software and Data Engineering based in Nairobi
     <br>
   </samp>
 </p>
@@ -37,20 +37,21 @@
 <p>
  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
- 💼️ &emsp; Currently a Senior Software Engineer and Data Engineer <br/>
- ❤️ &emsp; I love building optimized systems and I'm biased to Data Engineering for Business Intelligence<br/><br/>
+ 💼️ &emsp; Currently a Senior Software Engineer and Data Engineer [Living Goods](https://livinggoods.org/)<br/>
+ ❤️ &emsp; I love building optimized systems and I'm biased towards Data Engineering for Business Intelligence<br/><br/>
 
 [//]: # ( 📧 &emsp; Reach me anytime: mrtncornel@gmail.com<br/><br/>)
 
 </p>
+<hr>
 
-## I speak
+## 👨🏾‍💻 I speak
 
 <!-- , , , PHP, Laravel,, , , CouchDB, MongoDB, Git, , REST, Kotlin, Superset, NiFi, Tableau, NGINX, ,  -->
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.s👨🏾‍💻hields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -62,9 +63,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
-<br/>
+<hr>
 
-## Top Repos -
+## ⬆️ Top Repos
 [![dbCopy](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=db_copy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/db_copy)
 [![KotlinECommerce](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=kotlin_ecommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/Kotlin_eCommerce)
 
@@ -75,8 +76,12 @@
 </p>
 
 <hr/>
-<br/>
 
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=ocornel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
+## 📈 Stats:
 <p align="center">
   <a href="https://github.com/ocornel">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocornel&theme=radical&border=7F3FBF&background=0D1117" alt="Martin's GitHub streak"/>
@@ -96,4 +101,8 @@
 </a>
 
 
+
 ![Martin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ocornel&custom_title=Martin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<hr>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
