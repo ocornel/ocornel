@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mcornel.com">Martin</a></b>
+                <b><a target="_blank" href="https://cv.mcornel.com">Martin</a></b>
         </samp>
 </h3>
 
@@ -37,7 +37,7 @@
 <p>
  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
- 💼️ &emsp; Currently a Senior Software Engineer and Data Engineer [Living Goods](https://livinggoods.org/)<br/>
+ 💼️ &emsp; Currently a Senior Software Engineer and Data Engineer at [Living Goods](https://livinggoods.org/)<br/>
  ❤️ &emsp; I love building optimized systems and I'm biased towards Data Engineering for Business Intelligence<br/><br/>
 
 [//]: # ( 📧 &emsp; Reach me anytime: mrtncornel@gmail.com<br/><br/>)
@@ -65,7 +65,7 @@
 
 <hr>
 
-## ⬆️ Top Repos
+## ✉️ Top Repos
 [![dbCopy](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=db_copy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/db_copy)
 [![KotlinECommerce](https://github-readme-stats.vercel.app/api/pin/?username=ocornel&repo=kotlin_ecommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ocornel/Kotlin_eCommerce)
 
