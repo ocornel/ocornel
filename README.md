@@ -22,18 +22,17 @@
 
 <hr/>
 <h2 align="center">📈 Stats</h2>
-
 <p align="center">
   <a href="https://github.com/ocornel">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocornel&theme=radical&border=7F3FBF&background=0D1117&show=reviews,prs_merged_percentage" alt="Martin's GitHub Contribution" style="height: 185px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocornel&theme=radical&border=7F3FBF&background=0D1117" alt="Martin's GitHub streak" style="height: 185px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ocornel&theme=radical&border=7F3FBF&background=0D1117&show=reviews,prs_merged_percentage" alt="Martin's GitHub Contribution" style="height: 190px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocornel&theme=radical&border=7F3FBF&background=0D1117" alt="Martin's GitHub streak" style="height: 190px;"/>
 </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/ocornel">
-<img alt="Martin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ocornel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  style="height: 165px;"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ocornel&theme=radical" alt="Martin's GitHub Contribution"  style="height: 165px;"/>
+<img alt="Martin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ocornel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  style="height: 156px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ocornel&theme=radical" alt="Martin's GitHub Contribution"  style="height: 156px;"/>
 
 </a>
 </p>
