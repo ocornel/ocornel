@@ -24,10 +24,12 @@
 <h2 align="center">📈 Stats</h2>
 <p align="center">
   <a href="https://github.com/ocornel">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocornel&theme=radical&border=7F3FBF&background=0D1117&show=reviews,prs_merged_percentage" alt="Martin's GitHub Contribution" style="height: 190px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocornel&theme=radical&border=7F3FBF&background=0D1117" alt="Martin's GitHub streak" style="height: 190px;"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ocornel&theme=radical&hide_title=true&text_bold=false&show_icons=true&border=7F3FBF&background=0D1117&show=reviews,prs_merged_percentage" alt="Martin's GitHub Contribution" style="height: 175px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocornel&theme=radical&exclude_days=Sat&border=7F3FBF&background=0D1117" alt="Martin's GitHub streak" style="height: 175px;"/>
 </a>
 </p>
+
 
 <p align="center">
     <a href="https://github.com/ocornel">
