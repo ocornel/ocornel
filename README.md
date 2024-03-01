@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=ocornel">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ocornel&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=ocornel&label=Visits&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <br>
 <h2 align="center">👨🏾‍💻 I speak</h2>
@@ -40,6 +40,8 @@
 </p>
 
 ![Martin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ocornel&custom_title=Martin's%20GitHub%20Activity%201%20Month&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+[//]: # ([![Harlok's WakaTime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=ocornel&v=2&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 
 [//]: # (![]&#40;https://github-profile-trophy.vercel.app/?username=ocornel&theme=radical&no-frame=false&no-bg=true&margin-w=5&#41;)
