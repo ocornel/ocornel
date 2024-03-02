@@ -55,7 +55,7 @@
     <figcaption>1 year coding heat Map</figcaption>
   </figure>
 
-
+[//]: # ()
 [//]: # ()
 [//]: # (<style>)
 
@@ -76,20 +76,34 @@
 
 [//]: # (</style>)
 
-<div class="figure-row"  style="display: flex;">
-  <figure style="flex: 1; margin: 5px;">
-<img src="https://wakatime.com/share/@ocornel/4c07e81d-2280-480c-a7be-25857f33d9fc.svg" alt="Martin's 30 days Coding Activity"  style="height: 100%;"/>
-    <figcaption>30 days Coding Activity</figcaption>
-  </figure>
-  <figure style="flex: 1; margin: 5px;">
-<img src="https://wakatime.com/share/@ocornel/69f1560a-65fb-48a3-ba0e-cd446183fcc4.svg" alt="Martin's GitHub Contribution"   style="height: 100%;"/>
-    <figcaption>Coding Languages 1 year</figcaption>
-  </figure>
-  <figure style="flex: 1; margin: 5x;">
-<img src="https://wakatime.com/share/@ocornel/069e11f3-5a32-4810-9657-cc11acacb3dd.svg" alt="Martin's GitHub Contribution"  style="height: 100%;"/>
-    <figcaption>Code Editors</figcaption>
-  </figure>
-</div>
+[//]: # ()
+[//]: # (<div class="figure-row" >)
+
+[//]: # (  <figure>)
+
+[//]: # (<img src="https://wakatime.com/share/@ocornel/4c07e81d-2280-480c-a7be-25857f33d9fc.svg" alt="Martin's 30 days Coding Activity"  style="height: 100%;"/>)
+
+[//]: # (    <figcaption>30 days Coding Activity</figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (  <figure>)
+
+[//]: # (<img src="https://wakatime.com/share/@ocornel/69f1560a-65fb-48a3-ba0e-cd446183fcc4.svg" alt="Martin's GitHub Contribution"   style="height: 100%;"/>)
+
+[//]: # (    <figcaption>Coding Languages 1 year</figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (  <figure>)
+
+[//]: # (<img src="https://wakatime.com/share/@ocornel/069e11f3-5a32-4810-9657-cc11acacb3dd.svg" alt="Martin's GitHub Contribution"  style="height: 100%;"/>)
+
+[//]: # (    <figcaption>Code Editors</figcaption>)
+
+[//]: # (  </figure>)
+
+[//]: # (</div>)
 
 </div>
 
