@@ -56,28 +56,36 @@
   </figure>
 
 
+[//]: # ()
+[//]: # (<style>)
 
-<style>
-.figure-row {
-  display: flex; /* Make the figures display in a row */
-}
+[//]: # (.figure-row {)
 
-.figure-row figure {
-  flex: 1; /* Distribute the available space equally among figures */
-  margin: 10px; /* Add some spacing between figures */
-}
-</style>
+[//]: # (  display: flex; /* Make the figures display in a row */)
 
-<div class="figure-row" >
-  <figure>
+[//]: # (})
+
+[//]: # ()
+[//]: # (.figure-row figure {)
+
+[//]: # (  flex: 1; /* Distribute the available space equally among figures */)
+
+[//]: # (  margin: 10px; /* Add some spacing between figures */)
+
+[//]: # (})
+
+[//]: # (</style>)
+
+<div class="figure-row"  style="display: flex;">
+  <figure style="flex: 1; margin: 5px;">
 <img src="https://wakatime.com/share/@ocornel/4c07e81d-2280-480c-a7be-25857f33d9fc.svg" alt="Martin's 30 days Coding Activity"  style="height: 100%;"/>
     <figcaption>30 days Coding Activity</figcaption>
   </figure>
-  <figure>
+  <figure style="flex: 1; margin: 5px;">
 <img src="https://wakatime.com/share/@ocornel/69f1560a-65fb-48a3-ba0e-cd446183fcc4.svg" alt="Martin's GitHub Contribution"   style="height: 100%;"/>
     <figcaption>Coding Languages 1 year</figcaption>
   </figure>
-  <figure>
+  <figure style="flex: 1; margin: 5x;">
 <img src="https://wakatime.com/share/@ocornel/069e11f3-5a32-4810-9657-cc11acacb3dd.svg" alt="Martin's GitHub Contribution"  style="height: 100%;"/>
     <figcaption>Code Editors</figcaption>
   </figure>
